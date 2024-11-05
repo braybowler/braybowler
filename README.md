@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 My name is Brayden Bowler. 
 
@@ -8,9 +8,17 @@ I'm a passionate SaaS builder, entrepreneur, and full-time professional develope
 
 When I'm not developing I'm hiking with my dogs, playing golf, playing volleyball, reading, or focusing on my fitness. 
 
-My Web Applications:
-<br> [GolfTracker.ca](https://www.golftracker.ca)
+## My Web Applications:
+[GolfTracker.ca](https://www.golftracker.ca)
 
-My Socials:
-<br> [LinkedIn](https://www.linkedin.com/in/brayden-bowler/)
-<br> [Portfolio Website](https://www.8bitsmakeabray.ca)
+## My Socials:
+[LinkedIn](https://www.linkedin.com/in/brayden-bowler/)
+[Portfolio Website](https://www.8bitsmakeabray.ca)
+
+## Technologies I've Been Using Recently
+TypeScript and JavaScript
+PHP
+HTML and CSS
+SQL
+Laravel, Vue, and React
+

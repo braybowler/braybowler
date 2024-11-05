@@ -20,5 +20,10 @@ TypeScript and JavaScript
 <br> PHP
 <br> HTML and CSS
 <br> SQL
-<br> Laravel, Vue, and React
+<br> Laravel, Vue, React and NextJs
+
+## Other Technology and Tooling Experience
+Git
+<br> AWS (Lambda, EC2)
+<br> Docker
 

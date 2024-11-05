@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**braybowler/braybowler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Brayden Bowler. 
 
-Here are some ideas to get you started:
+I'm a recent Comp. Sci. grad from Conestoga College. I'm a passionate SaaS builder, entrepreneur, and full-time professional developer at Vehikl. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not developing I'm hiking with my dogs, playing golf, playing volleyball, reading, or focusing on my fitness. 
+
+Web Applications:
+GolfTracker.ca
+
+🌐 Socials:
+LinkedIn
+Portfolio Website

@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hey There 👋
 
 My name is Brayden Bowler. 
 
@@ -13,12 +13,12 @@ When I'm not developing I'm hiking with my dogs, playing golf, playing volleybal
 
 ## My Socials:
 [LinkedIn](https://www.linkedin.com/in/brayden-bowler/)
-[Portfolio Website](https://www.8bitsmakeabray.ca)
+<br> [Portfolio Website](https://www.8bitsmakeabray.ca)
 
 ## Technologies I've Been Using Recently
 TypeScript and JavaScript
-PHP
-HTML and CSS
-SQL
-Laravel, Vue, and React
+<br> PHP
+<br> HTML and CSS
+<br> SQL
+<br> Laravel, Vue, and React
 

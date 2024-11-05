@@ -24,6 +24,7 @@ TypeScript and JavaScript
 
 ## Other Technology and Tooling Experience
 Git
+<br> nginx
 <br> AWS (Lambda, EC2)
 <br> Docker
 

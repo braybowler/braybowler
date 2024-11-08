@@ -6,7 +6,7 @@ I'm a recent Bachelors of Computer Science graduate from Conestoga College. I al
 
 I'm a passionate SaaS builder, entrepreneur, and full-time professional developer at Vehikl. 
 
-When I'm not developing I'm hiking with my dogs, playing golf, playing volleyball, reading, or focusing on my fitness. 
+When I'm not developing I'm hiking with my girlfriend and our dogs, playing golf, playing volleyball, reading, or focusing on my fitness. 
 
 ## My Web Applications:
 [GolfTracker.ca](https://www.golftracker.ca)

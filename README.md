@@ -17,10 +17,10 @@ When I'm not developing I'm hiking with my girlfriend and our dogs, playing golf
 
 ## Technologies I've Been Using Recently
 TypeScript and JavaScript
-<br> PHP
+<br> PHP and Ruby
 <br> HTML and CSS
 <br> SQL
-<br> Laravel, Vue, React and NextJs
+<br> Laravel, Ruby on Rails, Vue, React and NextJs
 
 ## Other Technology and Tooling Experience
 Git

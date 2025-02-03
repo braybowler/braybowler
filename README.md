@@ -10,7 +10,7 @@ When I'm not developing I'm hiking with my girlfriend and our dogs, playing golf
 
 ## My Web Applications:
 [GolfTracker.ca](https://www.golftracker.ca)
-Personal Finance Dashboard
+<br> Personal Finance Dashboard
 
 ## My Socials:
 [LinkedIn](https://www.linkedin.com/in/brayden-bowler/)

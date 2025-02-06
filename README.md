@@ -9,7 +9,7 @@ I'm a passionate SaaS builder, entrepreneur, and full-time professional develope
 When I'm not developing I'm hiking with my girlfriend and our dogs, playing golf, playing volleyball, reading, or focusing on my fitness. 
 
 ## My Web Applications:
-<br> GolfTracker.ca
+GolfTracker.ca
 <br> Personal Finance Dashboard
 
 ## My Socials:

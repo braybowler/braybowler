@@ -11,6 +11,9 @@ When I'm not developing I'm hiking with my girlfriend and our dogs, playing golf
 ## My Web Applications:
 GolfTracker.ca
 
+## My iOS Applications:
+[Wedge Matrix](https://apps.apple.com/ca/app/wedge-matrix/id6744891049)
+
 ## My Socials:
 [LinkedIn](https://www.linkedin.com/in/brayden-bowler/)
 <br> [Portfolio Website](https://www.8bitsmakeabray.ca)
